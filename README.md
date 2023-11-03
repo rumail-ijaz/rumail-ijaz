@@ -1,5 +1,4 @@
-<h1 align="center" color="black">Hi 👋, I'm Rumail Ijaz</h1>
-<h3 align="center">Hi, my name is Rumail Ijaz and I am a Software Engineer</h3>
+<h3 align="center">Hi, My name is Rumail Ijaz and I am a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumailijaz&label=Profile%20views&color=0e75b6&style=flat" alt="rumailijaz" /> </p>
 
