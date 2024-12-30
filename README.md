@@ -1,5 +1,5 @@
 
-![alt text](./images/ROHAIL.png)
+![alt text](./ROHAIL.png)
 
 I'm a Front-End Developer with extensive expertise in HTML5, CSS3, and JavaScript. I excel in utilizing advanced technologies like jQuery, SCSS, React JS, and Next.js to create dynamic and interactive user interfaces. Proficient in UI component libraries including Material UI, React Bootstrap, and React Tailwind, I also possess skills in Bootstrap 5 and Tailwind CSS for responsive web design. Additionally, I have a strong foundation in API Development, proficiently integrating front-end interfaces with back-end systems using tools like Ajax. Leveraging GitHub for version control, I ensure efficient collaboration and code management. Moreover, my expertise extends to Payment Integration, enabling secure and seamless transaction processes within web applications.
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
  </p>
  
-![alt text](./images/bottom.png)
+![alt text](./bottom.png)
