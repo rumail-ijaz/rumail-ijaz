@@ -1,10 +1,10 @@
 
 ![alt text](./ROHAIL.png)
 
-I'm a Front-End Developer with extensive expertise in HTML5, CSS3, and JavaScript. I excel in utilizing advanced technologies like jQuery, SCSS, React JS, and Next.js to create dynamic and interactive user interfaces. Proficient in UI component libraries including Material UI, React Bootstrap, and React Tailwind, I also possess skills in Bootstrap 5 and Tailwind CSS for responsive web design. Additionally, I have a strong foundation in API Development, proficiently integrating front-end interfaces with back-end systems using tools like Ajax. Leveraging GitHub for version control, I ensure efficient collaboration and code management. Moreover, my expertise extends to Payment Integration, enabling secure and seamless transaction processes within web applications.
+I have an almost 3+ years experience in the Front End technologies Javascript, jquery, React, Redux. Expertise in developing web pages using HTML5, CSS3, ES6, JQuery, and 2+ years experience of backend development with Node.js, MongoDB and Express. Good understanding of Document Object Model (DOM) and DOM Functions. Extensive use of Node environment using NPM, and Mongo DB along with Mongoose.JS to create server side applications. Responsive design. Used Node Package Manager (NPM) to manage the modules and used it to install useful tools such as Express, crypto.js, mongoose, body- parser, bcrypt.js, node-mailer, node-geocoder, JWT Token. Good experience on working with CSS Background, padding, table, Animations and Layouts, positioning, border, margin and CSS behaviors. A result-oriented professional with good communication and co-ordination skills.
 
 <!--
-**RohailJohn/RohailJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RumailIjaz/RumailIjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
