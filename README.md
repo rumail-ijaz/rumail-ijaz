@@ -1,7 +1,9 @@
 
 ![alt text](./Cover.jpg)
 
-I have an almost 3+ years experience in the Front End technologies Javascript, jquery, React, Redux and Next. Expertise in developing web pages using HTML5, CSS3, ES6 and 2+ years experience of backend development with Node.js, MongoDB and Express. Good understanding of Document Object Model (DOM) and DOM Functions. Extensive use of Node environment using NPM, and Mongo DB along with Mongoose.JS to create server side applications. Used Node Package Manager (NPM) to manage the modules and used it to install useful tools such as Express, crypto.js, mongoose, body- parser, bcrypt.js, node-mailer, node-geocoder, JWT Token. A result-oriented professional with good communication and co-ordination skills.
+I am a skilled MERN stack developer with expertise in building dynamic and responsive web applications using MongoDB, Express, React, and Node.js. I specialize in front-end development with React, leveraging state management tools like Redux and Context API, and creating user-friendly interfaces with HTML5, CSS3, Bootstrap, and Tailwind CSS.
+On the back-end, I develop scalable APIs and server-side logic with Node.js and Express, integrating MongoDB with Mongoose for efficient database management. I have hands-on experience in RESTful API integration, authentication using JWT.
+I excel in collaborative environments, adapt quickly to new technologies, and am committed to delivering high-quality, optimized solutions that meet business goals.
 
 <!--
 **RumailIjaz/RumailIjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
