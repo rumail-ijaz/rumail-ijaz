@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -   🌱 I’m currently learning AL , ML , Web 3 and Blockchain ...
 -   👯 Collaborating on cool and open source projects ...
 -   💬 Ask me about anything ...
--   📫 How to reach me: <a href="https://rohailjohn-portfolio.web.app/" target="_blank">rohailjohn.com</a> ...
 
 ⚡ Fun fact:
 
@@ -30,11 +29,8 @@ Here are some ideas to get you started:
 ### Let's Connect :coffee:
 
  <p align="center">
- 	<a href="https://github.com/RohailJohn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
- 	<a href="https://www.linkedin.com/in/rohail-john-173312255/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
- 	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
- 	<a href="https://www.instagram.com/rohail_john__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-
+ 	<a href="https://github.com/rumail-ijaz"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+ 	<a href="https://www.linkedin.com/in/rumail-ijaz/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
  </p>
  
 ![alt text](./bottom.png)
