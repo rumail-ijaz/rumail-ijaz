@@ -1,5 +1,5 @@
 
-![alt text](./ROHAIL.png)
+![alt text](./Cover.jpg)
 
 I have an almost 3+ years experience in the Front End technologies Javascript, jquery, React, Redux. Expertise in developing web pages using HTML5, CSS3, ES6, JQuery, and 2+ years experience of backend development with Node.js, MongoDB and Express. Good understanding of Document Object Model (DOM) and DOM Functions. Extensive use of Node environment using NPM, and Mongo DB along with Mongoose.JS to create server side applications. Responsive design. Used Node Package Manager (NPM) to manage the modules and used it to install useful tools such as Express, crypto.js, mongoose, body- parser, bcrypt.js, node-mailer, node-geocoder, JWT Token. Good experience on working with CSS Background, padding, table, Animations and Layouts, positioning, border, margin and CSS behaviors. A result-oriented professional with good communication and co-ordination skills.
 
